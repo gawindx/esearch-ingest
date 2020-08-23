@@ -1,4 +1,4 @@
-FROM elasticsearch:7.6.2
+FROM elasticsearch:7.9.0
 
 LABEL "io.containers.autoupdate=image"
 
